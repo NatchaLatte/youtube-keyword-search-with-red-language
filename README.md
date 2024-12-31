@@ -12,12 +12,14 @@ app.exe
 ### วิธีใช้งาน
 เมื่อเปิดโปรแกรมขึ้นมาจะมีหน้าตาดังภาพด้านล่าง
 
-![image](https://github.com/user-attachments/assets/0a31f941-aec6-4eff-9285-a4b236d903b2)
+![image](https://github.com/user-attachments/assets/66b8100d-6253-4c13-a8d5-5bdb61169197)
 
 ให้นำลิงก์วิดีโอ Youtube ที่สนใจใส่ลงไป จากนั้นกด `ค้นหา`
 
-![image](https://github.com/user-attachments/assets/75306880-5a6f-4a98-aa5b-511c3d0dffc4)
+![image](https://github.com/user-attachments/assets/e9bea626-848d-435f-867a-49a86e4aa409)
+
 
 ในหน้าต่าง Terminal จะพบว่ามี Keywords ของวิดีโอแสดงออกมา
 
-![image](https://github.com/user-attachments/assets/3e36a829-c141-4be8-b791-d2e118cec41f)
+![image](https://github.com/user-attachments/assets/5c82fc2f-4fa1-4dc9-bf3d-563cbf955b4c)
+
